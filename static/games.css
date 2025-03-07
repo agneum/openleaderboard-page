@@ -1376,7 +1376,7 @@ body.games {
 
 .games .cf-button.primary {
     color: #FFF;
-    background-color: #005CFF
+    background-color: #075DC6
 }
 
 .games .cf-button.small {
@@ -1402,7 +1402,7 @@ body.games {
     line-height: 18px;
     margin: 0;
     color: #FFF;
-    background-color: #005CFF;
+    background-color: #075DC6;
     text-transform: uppercase;
     text-align: center;
     transition: background-color .25s ease;
@@ -1449,19 +1449,19 @@ body.games {
 }
 
 .games .btn:not(.btn-link).active {
-    background: #005CFF;
-    border-color: #005CFF;
+    background: #075DC6;
+    border-color: #075DC6;
     color: #FFF
 }
 
 .games .btn:not(.btn-link).btn-red-outline {
-    border-color: #005CFF;
-    color: #005CFF;
+    border-color: #075DC6;
+    color: #075DC6;
     background: transparent
 }
 
 .games .btn:not(.btn-link).btn-red-outline:hover,.games .btn:not(.btn-link).btn-red-outline:active,.games .btn:not(.btn-link).btn-red-outline:focus {
-    background: #005CFF;
+    background: #075DC6;
     color: #FFF
 }
 
@@ -1677,11 +1677,11 @@ body.games {
 }
 
 .games a,.games a:link,.games a:visited {
-    color: #005CFF
+    color: #075DC6
 }
 
 .games a:hover,.games a:focus,.games a:active {
-    color: #005CFF
+    color: #075DC6
 }
 
 .games .is-desktop {
@@ -1713,7 +1713,7 @@ body.games {
 }
 
 .games .text-red {
-    color: #005CFF
+    color: #075DC6
 }
 
 .games .video-icon:after {
@@ -1729,7 +1729,7 @@ body.games {
     content: "î¤ž";
     font-size: 18px;
     font-size: 1.8rem;
-    color: #005CFF
+    color: #075DC6
 }
 
 @media (min-width: 1201px) {
@@ -3501,7 +3501,7 @@ body.games {
 }
 
 .games footer .top .link-container nav .inner ul li a:hover {
-    color: #005CFF
+    color: #075DC6
 }
 
 @media (max-width: 768px) {
@@ -3692,7 +3692,7 @@ body.games {
 }
 
 .games footer .bottom #globalLinks nav ul li a:hover {
-    color: #005CFF
+    color: #075DC6
 }
 
 @media (max-width: 993px) {
@@ -4459,7 +4459,7 @@ body.games {
 }
 
 .games .games-events-schedule .days .event {
-    color: #005CFF;
+    color: #075DC6;
     margin-bottom: 24px
 }
 
@@ -5358,7 +5358,7 @@ body.games {
 }
 
 .games .hero-homepage .hero-info .sizzle-actions .sizzle-action a {
-    background: #005CFF;
+    background: #075DC6;
     width: 100%
 }
 
@@ -6962,7 +6962,7 @@ body.games {
 }
 
 .games .registration-links .links .registration-link:last-child a {
-    background: #005CFF
+    background: #075DC6
 }
 
 .games .registration-links .links .registration-link:last-child a:hover,.games .registration-links .links .registration-link:last-child a:focus,.games .registration-links .links .registration-link:last-child a:active {
@@ -7165,13 +7165,13 @@ body.games {
 
 .games #registrations.team-registration #registrationAdditionalInfo .info-box button:hover,.games #registrations.team-registration #registrationAdditionalInfo .info-box button:active,.games #registrations.team-registration #registrationAdditionalInfo .info-box button:focus,.games #registrations.team-registration #registrationAdditionalInfo .info-box button:visited,.games #registrationCodes.team-registration #registrationAdditionalInfo .info-box button:hover,.games #registrationCodes.team-registration #registrationAdditionalInfo .info-box button:active,.games #registrationCodes.team-registration #registrationAdditionalInfo .info-box button:focus,.games #registrationCodes.team-registration #registrationAdditionalInfo .info-box button:visited,.games #manageAthletes.team-registration #registrationAdditionalInfo .info-box button:hover,.games #manageAthletes.team-registration #registrationAdditionalInfo .info-box button:active,.games #manageAthletes.team-registration #registrationAdditionalInfo .info-box button:focus,.games #manageAthletes.team-registration #registrationAdditionalInfo .info-box button:visited,.games #waiver.team-registration #registrationAdditionalInfo .info-box button:hover,.games #waiver.team-registration #registrationAdditionalInfo .info-box button:active,.games #waiver.team-registration #registrationAdditionalInfo .info-box button:focus,.games #waiver.team-registration #registrationAdditionalInfo .info-box button:visited {
     color: #1A1A1A;
-    border-color: #005CFF;
+    border-color: #075DC6;
     background-color: #FFF
 }
 
 .games #registrations.team-registration #registrationAdditionalInfo .info-box button.active,.games #registrationCodes.team-registration #registrationAdditionalInfo .info-box button.active,.games #manageAthletes.team-registration #registrationAdditionalInfo .info-box button.active,.games #waiver.team-registration #registrationAdditionalInfo .info-box button.active {
     color: #1A1A1A;
-    border-color: #005CFF;
+    border-color: #075DC6;
     background-color: #fff
 }
 
@@ -7210,7 +7210,7 @@ body.games {
 }
 
 .games #registrations.team-registration .register-button.active,.games #registrationCodes.team-registration .register-button.active,.games #manageAthletes.team-registration .register-button.active,.games #waiver.team-registration .register-button.active {
-    background-color: #005CFF
+    background-color: #075DC6
 }
 
 @media (min-width: 993px) {
@@ -7681,9 +7681,9 @@ body.games {
     padding-left: 5px;
     padding-right: 5px;
     text-align: center;
-    color: #005CFF;
-    background-color: #005CFF;
-    border-color: #005CFF;
+    color: #075DC6;
+    background-color: #075DC6;
+    border-color: #075DC6;
     border-width: 0
 }
 
@@ -7694,12 +7694,12 @@ body.games {
 
 .games #registrations .box .btn.btn-code:active,.games #registrations .box .btn.btn-code.active,.games #registrationCodes .box .btn.btn-code:active,.games #registrationCodes .box .btn.btn-code.active,.games #manageAthletes .box .btn.btn-code:active,.games #manageAthletes .box .btn.btn-code.active,.games #waiver .box .btn.btn-code:active,.games #waiver .box .btn.btn-code.active {
     color: #1A1A1A;
-    background-color: #005cff;
-    border-color: #005cff
+    background-color: #075DC6;
+    border-color: #075DC6
 }
 
 .open .games #registrations .box .btn.btn-code.dropdown-toggle,.open .games #registrationCodes .box .btn.btn-code.dropdown-toggle,.open .games #manageAthletes .box .btn.btn-code.dropdown-toggle,.open .games #waiver .box .btn.btn-code.dropdown-toggle {
-    color: #005CFF;
+    color: #075DC6;
     background-color: #004dd6
 }
 
@@ -7712,7 +7712,7 @@ body.games {
 }
 
 .games #registrations .box .btn.btn-code.disabled,.games #registrations .box .btn.btn-code.disabled:hover,.games #registrations .box .btn.btn-code.disabled:focus,.games #registrations .box .btn.btn-code.disabled:active,.games #registrations .box .btn.btn-code.disabled.active,.games #registrations .box .btn.btn-code[disabled],.games #registrations .box .btn.btn-code[disabled]:hover,.games #registrations .box .btn.btn-code[disabled]:focus,.games #registrations .box .btn.btn-code[disabled]:active,.games #registrations .box .btn.btn-code[disabled].active,fieldset[disabled] .games #registrations .box .btn.btn-code,fieldset[disabled] .games #registrations .box .btn.btn-code:hover,fieldset[disabled] .games #registrations .box .btn.btn-code:focus,fieldset[disabled] .games #registrations .box .btn.btn-code:active,fieldset[disabled] .games #registrations .box .btn.btn-code.active,.games #registrationCodes .box .btn.btn-code.disabled,.games #registrationCodes .box .btn.btn-code.disabled:hover,.games #registrationCodes .box .btn.btn-code.disabled:focus,.games #registrationCodes .box .btn.btn-code.disabled:active,.games #registrationCodes .box .btn.btn-code.disabled.active,.games #registrationCodes .box .btn.btn-code[disabled],.games #registrationCodes .box .btn.btn-code[disabled]:hover,.games #registrationCodes .box .btn.btn-code[disabled]:focus,.games #registrationCodes .box .btn.btn-code[disabled]:active,.games #registrationCodes .box .btn.btn-code[disabled].active,fieldset[disabled] .games #registrationCodes .box .btn.btn-code,fieldset[disabled] .games #registrationCodes .box .btn.btn-code:hover,fieldset[disabled] .games #registrationCodes .box .btn.btn-code:focus,fieldset[disabled] .games #registrationCodes .box .btn.btn-code:active,fieldset[disabled] .games #registrationCodes .box .btn.btn-code.active,.games #manageAthletes .box .btn.btn-code.disabled,.games #manageAthletes .box .btn.btn-code.disabled:hover,.games #manageAthletes .box .btn.btn-code.disabled:focus,.games #manageAthletes .box .btn.btn-code.disabled:active,.games #manageAthletes .box .btn.btn-code.disabled.active,.games #manageAthletes .box .btn.btn-code[disabled],.games #manageAthletes .box .btn.btn-code[disabled]:hover,.games #manageAthletes .box .btn.btn-code[disabled]:focus,.games #manageAthletes .box .btn.btn-code[disabled]:active,.games #manageAthletes .box .btn.btn-code[disabled].active,fieldset[disabled] .games #manageAthletes .box .btn.btn-code,fieldset[disabled] .games #manageAthletes .box .btn.btn-code:hover,fieldset[disabled] .games #manageAthletes .box .btn.btn-code:focus,fieldset[disabled] .games #manageAthletes .box .btn.btn-code:active,fieldset[disabled] .games #manageAthletes .box .btn.btn-code.active,.games #waiver .box .btn.btn-code.disabled,.games #waiver .box .btn.btn-code.disabled:hover,.games #waiver .box .btn.btn-code.disabled:focus,.games #waiver .box .btn.btn-code.disabled:active,.games #waiver .box .btn.btn-code.disabled.active,.games #waiver .box .btn.btn-code[disabled],.games #waiver .box .btn.btn-code[disabled]:hover,.games #waiver .box .btn.btn-code[disabled]:focus,.games #waiver .box .btn.btn-code[disabled]:active,.games #waiver .box .btn.btn-code[disabled].active,fieldset[disabled] .games #waiver .box .btn.btn-code,fieldset[disabled] .games #waiver .box .btn.btn-code:hover,fieldset[disabled] .games #waiver .box .btn.btn-code:focus,fieldset[disabled] .games #waiver .box .btn.btn-code:active,fieldset[disabled] .games #waiver .box .btn.btn-code.active {
-    background-color: #005CFF
+    background-color: #075DC6
 }
 
 .games #registrations .box .form-inline .btn,.games #registrationCodes .box .form-inline .btn,.games #manageAthletes .box .form-inline .btn,.games #waiver .box .form-inline .btn {
@@ -7825,7 +7825,7 @@ body.games {
 }
 
 .games #registrations .box .clothing-sizes>div:nth-child(1) h4,.games #registrations .box .clothing-sizes>div:nth-child(2) h4,.games #registrationCodes .box .clothing-sizes>div:nth-child(1) h4,.games #registrationCodes .box .clothing-sizes>div:nth-child(2) h4,.games #manageAthletes .box .clothing-sizes>div:nth-child(1) h4,.games #manageAthletes .box .clothing-sizes>div:nth-child(2) h4,.games #waiver .box .clothing-sizes>div:nth-child(1) h4,.games #waiver .box .clothing-sizes>div:nth-child(2) h4 {
-    color: #005CFF
+    color: #075DC6
 }
 
 .games #registrations .box .clothing-sizes>div:nth-child(3) h4,.games #registrations .box .clothing-sizes>div:nth-child(4) h4,.games #registrationCodes .box .clothing-sizes>div:nth-child(3) h4,.games #registrationCodes .box .clothing-sizes>div:nth-child(4) h4,.games #manageAthletes .box .clothing-sizes>div:nth-child(3) h4,.games #manageAthletes .box .clothing-sizes>div:nth-child(4) h4,.games #waiver .box .clothing-sizes>div:nth-child(3) h4,.games #waiver .box .clothing-sizes>div:nth-child(4) h4 {
@@ -9551,14 +9551,14 @@ body.games {
 }
 
 .games .competition-dashboard .page-section .tabs ul>li:hover>a {
-    color: #005CFF;
-    border: 2px solid #005CFF
+    color: #075DC6;
+    border: 2px solid #075DC6
 }
 
 .games .competition-dashboard .page-section .tabs ul>li.active:hover>a,.games .competition-dashboard .page-section .tabs ul>li.active>a {
     color: #FFF;
-    background-color: #005CFF;
-    border: 2px solid #005CFF
+    background-color: #075DC6;
+    border: 2px solid #075DC6
 }
 
 .games .competition-dashboard .page-section .tabs ul>li>a {
@@ -10753,7 +10753,7 @@ body.games {
 }
 
 .games #loginForm button.btn-red-outline:hover,.games #loginForm .btn.btn-red-outline:hover {
-    background: #005CFF;
+    background: #075DC6;
     color: #FFF
 }
 
@@ -11030,7 +11030,7 @@ body.games {
 }
 
 .games #breadcrumbs ul .breadcrumb a {
-    color: #005CFF;
+    color: #075DC6;
     text-transform: capitalize
 }
 
@@ -12051,7 +12051,7 @@ body.games {
 }
 
 .games .lb-preview .tabs-container .tabs.controls .control.select .select-wrapper label,.games .lb-preview-blank .tabs-container .tabs.controls .control.select .select-wrapper label,.games .lb-athlete .tabs-container .tabs.controls .control.select .select-wrapper label,.games .lb-team .tabs-container .tabs.controls .control.select .select-wrapper label,.games .lb-affiliate .tabs-container .tabs.controls .control.select .select-wrapper label {
-    color: #005CFF
+    color: #075DC6
 }
 
 .games .lb-preview .tabs-container .tabs.controls .control.select .select-wrapper .text,.games .lb-preview-blank .tabs-container .tabs.controls .control.select .select-wrapper .text,.games .lb-athlete .tabs-container .tabs.controls .control.select .select-wrapper .text,.games .lb-team .tabs-container .tabs.controls .control.select .select-wrapper .text,.games .lb-affiliate .tabs-container .tabs.controls .control.select .select-wrapper .text {
@@ -13163,7 +13163,7 @@ body.games {
 }
 
 .games .lb-main .athletes.desktop td.selected,.games .lb-main .athletes.desktop th.selected,.games .lb-athlete .athletes.desktop td.selected,.games .lb-athlete .athletes.desktop th.selected,.games .lb-team .athletes.desktop td.selected,.games .lb-team .athletes.desktop th.selected,.games .lb-affiliate .athletes.desktop td.selected,.games .lb-affiliate .athletes.desktop th.selected {
-    background: #005CFF
+    background: #075DC6
 }
 
 .games .lb-main .athletes.desktop td.selected i,.games .lb-main .athletes.desktop th.selected i,.games .lb-athlete .athletes.desktop td.selected i,.games .lb-athlete .athletes.desktop th.selected i,.games .lb-team .athletes.desktop td.selected i,.games .lb-team .athletes.desktop th.selected i,.games .lb-affiliate .athletes.desktop td.selected i,.games .lb-affiliate .athletes.desktop th.selected i {
@@ -13243,7 +13243,7 @@ body.games {
 }
 
 .games #leaderboard .status-declined+.status-text,.games .lb-main .status-declined+.status-text,.games .lb-athlete .status-declined+.status-text,.games .lb-team .status-declined+.status-text,.games .lb-affiliate .status-declined+.status-text,.games .leaderboard-preview .status-declined+.status-text {
-    color: #005CFF
+    color: #075DC6
 }
 
 .games #leaderboard .status-team,.games .lb-main .status-team,.games .lb-athlete .status-team,.games .lb-team .status-team,.games .lb-affiliate .status-team,.games .leaderboard-preview .status-team {
@@ -13281,7 +13281,7 @@ body.games {
 .games .lb-main .global-error-message,.games .lb-preview .global-error-message,.games .lb-preview-blank .global-error-message,.games .lb-athlete .global-error-message,.games .lb-team .global-error-message,.games .lb-affiliate .global-error-message {
     display: none;
     padding: 10px 20px;
-    color: #005CFF;
+    color: #075DC6;
     text-align: center
 }
 
@@ -13482,7 +13482,7 @@ body.games {
     font-size: 12px;
     font-size: 1.2rem;
     line-height: 1.33;
-    color: #005CFF
+    color: #075DC6
 }
 
 .games .lb-main .athletes.desktop,.games .lb-preview .athletes.desktop,.games .lb-preview-blank .athletes.desktop,.games .lb-athlete .athletes.desktop,.games .lb-team .athletes.desktop,.games .lb-affiliate .athletes.desktop {
@@ -13852,7 +13852,7 @@ body.games {
 }
 
 .games .lb-main .footer.desktop .pages .nums a.active,.games .lb-preview .footer.desktop .pages .nums a.active,.games .lb-preview-blank .footer.desktop .pages .nums a.active,.games .lb-athlete .footer.desktop .pages .nums a.active,.games .lb-team .footer.desktop .pages .nums a.active,.games .lb-affiliate .footer.desktop .pages .nums a.active {
-    color: #005CFF;
+    color: #075DC6;
     cursor: default
 }
 
@@ -13870,7 +13870,7 @@ body.games {
 }
 
 .games .lb-main .footer.desktop form.page-jump input.error,.games .lb-preview .footer.desktop form.page-jump input.error,.games .lb-preview-blank .footer.desktop form.page-jump input.error,.games .lb-athlete .footer.desktop form.page-jump input.error,.games .lb-team .footer.desktop form.page-jump input.error,.games .lb-affiliate .footer.desktop form.page-jump input.error {
-    border-color: #005CFF
+    border-color: #075DC6
 }
 
 .games #athleteLeaderboards .btn {
@@ -13966,7 +13966,7 @@ body.games {
 }
 
 .games .video-sidebar .video-entry:hover .video-entry-image {
-    border: 5px solid #005CFF
+    border: 5px solid #075DC6
 }
 
 .games .video-sidebar .video-entry .image-container {
@@ -14181,7 +14181,7 @@ body.games {
 }
 
 .games .submit-workout-score .highlight {
-    color: #005CFF
+    color: #075DC6
 }
 
 @media (max-width: 993px) {
@@ -14532,9 +14532,9 @@ body.games {
 }
 
 .games .score-cards .validate-scores-legend .tabs ul li.active a {
-    border-color: #005CFF;
+    border-color: #075DC6;
     background: transparent;
-    color: #005CFF
+    color: #075DC6
 }
 
 .games .score-cards .validate-scores-legend .tabs ul+div {
@@ -14736,7 +14736,7 @@ body.games {
 }
 
 .games .score-cards .heading-statuses span.highlight {
-    color: #005CFF
+    color: #075DC6
 }
 
 .games .score-cards .statuses {
@@ -15005,7 +15005,7 @@ body.games {
 }
 
 .games .main-video #breadcrumbs .breadcrumb:not(.active) a {
-    color: #005CFF
+    color: #075DC6
 }
 
 .games .main-video .attribution {
@@ -15271,7 +15271,7 @@ body.games {
     font-size: 20px;
     font-size: 2rem;
     line-height: 1.5;
-    color: #005CFF;
+    color: #075DC6;
     margin-top: 0;
     margin-bottom: calc(4px * 4);
     text-transform: none
@@ -16190,7 +16190,7 @@ body.games {
 .games .workout-open-movements .main-container .nav div {
     display: inline-block;
     cursor: pointer;
-    color: #005CFF;
+    color: #075DC6;
     text-transform: uppercase
 }
 
@@ -16403,7 +16403,7 @@ body.games {
     font-size: 1.2rem;
     padding: calc(4px * 2) calc(4px * 4);
     background-color: #FFF;
-    color: #005CFF;
+    color: #075DC6;
     text-align: center
 }
 
@@ -16805,7 +16805,7 @@ body.games {
 }
 
 .games #mediaOverview #breadcrumbs ul .breadcrumb a {
-    color: #005CFF;
+    color: #075DC6;
     text-transform: capitalize
 }
 
@@ -16855,7 +16855,7 @@ body.games {
 }
 
 .games #regionals .hero .hero-buttons a.Red,.games #sanctionals .hero .hero-buttons a.Red,.games #semifinals .hero .hero-buttons a.Red,.games .semifinals-archive .hero .hero-buttons a.Red {
-    background: #005CFF;
+    background: #075DC6;
     color: #FFF;
     border: 0
 }
@@ -18327,7 +18327,7 @@ body.games {
 }
 
 .games #press .stage-accordian-wrapper .stage-accordian-list>p a {
-    color: #005CFF
+    color: #075DC6
 }
 
 .games #press .stage-accordian-wrapper .stage-accordian-list.image-list.in {
@@ -18383,7 +18383,7 @@ body.games {
 }
 
 .games #press .stage-accordian-wrapper .stage-accordian-list a {
-    color: #005CFF
+    color: #075DC6
 }
 
 .games #press .stage-accordian-wrapper .stage-accordian-list a:hover {
@@ -18497,8 +18497,8 @@ body.games {
 
 .games .side-nav-buttons div a.buy,.games .hero-buttons div a.buy {
     color: #FFF;
-    background: #005CFF;
-    border: 1px solid #005CFF
+    background: #075DC6;
+    border: 1px solid #075DC6
 }
 
 @media (max-width: 768px) {
@@ -18557,7 +18557,7 @@ body.games {
 
 .games .drop-nav .dropdown-menu a:hover {
     color: #FFF;
-    background: #005CFF
+    background: #075DC6
 }
 
 .games .drop-nav .dropdown-menu a.schedule {
@@ -18575,7 +18575,7 @@ body.games {
 }
 
 .games .cf-content-dropdown .dropdown-menu li.active a {
-    background-color: #005CFF;
+    background-color: #075DC6;
     color: #FFF
 }
 
