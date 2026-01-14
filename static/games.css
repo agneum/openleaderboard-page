@@ -1,12 +1,12 @@
 /* cfux.css 3.0.290 | CrossFit IT - CrossFit, Inc. */
 @charset "UTF-8";@font-face {
     font-family: PFDIN;
-    src: url(https://assets.crossfit.com/fonts/PFDINTextCompStdMedium.woff) format("woff2"),url(https://assets.crossfit.com/fonts/PFDINTextCompStdMedium.woff2) format("woff")
+    src: url(./fonts/PFDINTextCompStdMedium.woff) format("woff2"),url(./fonts/PFDINTextCompStdMedium.woff2) format("woff")
 }
 
 @font-face {
     font-family: PFDIN;
-    src: url(https://assets.crossfit.com/fonts/PFDINTextCompStdMedium.woff) format("woff2"),url(https://assets.crossfit.com/fonts/PFDINTextCompStdMedium.woff2) format("woff")
+    src: url(./fonts/PFDINTextCompStdMedium.woff) format("woff2"),url(./fonts/PFDINTextCompStdMedium.woff2) format("woff")
 }
 
 .position-relative {
@@ -12151,7 +12151,7 @@ body.games {
 }
 
 .games #leaderboard .hero-bg[data-name=open],.games #affiliates .hero-bg[data-name=open] {
-    background-image: url(https://assets.crossfit.com/build/img/sites/games/workouts/hero/open.jpg)
+    background-image: url(./img/open.jpg)
 }
 
 .games #leaderboard .hero-bg[data-name=onlinequalifiers],.games #leaderboard .hero-bg[data-name=quarterfinalsteam],.games #leaderboard .hero-bg[data-name=quarterfinalsindividual],.games #leaderboard .hero-bg[data-name=occupationalgames],.games #leaderboard .hero-bg[data-name=quarterfinals],.games #affiliates .hero-bg[data-name=onlinequalifiers],.games #affiliates .hero-bg[data-name=quarterfinalsteam],.games #affiliates .hero-bg[data-name=quarterfinalsindividual],.games #affiliates .hero-bg[data-name=occupationalgames],.games #affiliates .hero-bg[data-name=quarterfinals] {
